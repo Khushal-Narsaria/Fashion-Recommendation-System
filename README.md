@@ -1,5 +1,10 @@
 # Fashion Recommendation
 
+<!-- live-links -->
+> 🔗 **Live project page:** [khushal-narsaria.github.io/Fashion-Recommendation-System](https://khushal-narsaria.github.io/Fashion-Recommendation-System/)  
+> 👤 **Portfolio:** [khushal-narsaria.github.io](https://khushal-narsaria.github.io/)  
+<!-- live-links -->
+
 In this project, I created an end-to-end solution for large-scale image classification and visual recommendation on fashion images. More specifically, my model can learn the important regions in an image and generate diverse recommendations based on such semantic similarity.  
 
 First, I built a clothing image classification model using a ResNet-based model. The feature layer of this model can capture fine-grained semantic clothing features like fabrics, styles and patterns of the clothes. Then, using such features, the model can recommend similar clothes to the input images using nearest neighbor search.
